@@ -1,9 +1,5 @@
-# Nuxt Content
+# About Flowers
 
-This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
+![flowers.jpg](/flowers.jpg)
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
-
----
-
-Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
+Flowers are an essential part of out lives. They are responsible for bringing happiness in our lives and making our surrounding environment a prettier place to live in.
