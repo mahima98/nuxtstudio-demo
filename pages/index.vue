@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-yellow-100 flex items-center justify-center h-screen">
+  <div class="bg-red-100 flex items-center justify-center min-h-screen py-10">
     <div class="prose">
       <ContentDoc />
     </div>
