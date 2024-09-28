@@ -9,3 +9,4 @@ Flowers are an essential part of out lives. They are responsible for bringing ha
 - Decorate 🌼
 - Confetti 🎊
 - Bouquets
+- Candles
